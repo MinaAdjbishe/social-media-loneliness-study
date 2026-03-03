@@ -41,11 +41,11 @@ The full analysis is available in `analysis.R`, including:
 - Visualisations  
 
 ## Visualisations
-Add your exported PNGs here:
-- Distribution boxplots  
-- Mean + SD bar charts  
-- Scatterplots with regression lines  
-- Mediation diagram (optional)
+#### Scatterplot: Age and Scale Scores
+![Scatterplot](plots/scatter_age_scores.png)
+
+#### Mediation Model
+![Mediation Diagram](plots/mediation_diagram.png)
 
 ## Interpretation
 The results support cognitive models of social media effects: emotional outcomes are shaped less by usage frequency and more by **maladaptive thought patterns** triggered during use. Interventions targeting rumination may be more effective than reducing screen time alone.
