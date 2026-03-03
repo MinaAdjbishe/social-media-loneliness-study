@@ -51,10 +51,11 @@ The full analysis is available in `analysis.R`, including:
 The results support cognitive models of social media effects: emotional outcomes are shaped less by usage frequency and more by **maladaptive thought patterns** triggered during use. Interventions targeting rumination may be more effective than reducing screen time alone.
 
 ## Files
-- `analysis.R` — full R script  
-- `scales_data.csv` — scale responses (if allowed)  
-- `demo_data.csv` — demographics (if allowed)  
-- `plots/` — exported visualisations  
+- **analysis.R** — full R script containing data cleaning, scoring, visualisations, and mediation analysis  
+- **Influence_of_Social_Media_Report.pdf** — full written report  
+- **plots/** — folder containing all exported visualisations (scatterplots, mediation diagram, boxplots, bar charts)  
+- **.gitignore** — keeps the repo clean  
+- **LICENSE** — project license 
 
 ## Author
 Mina Adjbishe  
